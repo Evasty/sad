@@ -93,9 +93,9 @@ def Calculadora():
               opc = int(input("Selecione Opcion\n"))
 
 Calculadora()
-print "Hola"
-print "Hola2"
-print "hola3"
+print "sad"
+print "sad2"
+print "sad3"
 print """
 
                                 /|         ,
